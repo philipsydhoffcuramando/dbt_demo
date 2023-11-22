@@ -40,6 +40,4 @@ models:
     # Applies to all files under models/example/
     example:
       +materialized: table
-      project: curamando-snowplow
       location: EU 
-      dataset: ps_dbt_test
